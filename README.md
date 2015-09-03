@@ -17,4 +17,4 @@ for some changes instead. Don't be discouraged! That's normal; the
 library is complex, and thus it might take some time to become
 familiar with it and to use it in an idiomatic way.
 
-We're looking forward to your contributions.
+We're looking forward to your contributions!  
